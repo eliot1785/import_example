@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name='import_example',
-    version='0.0.3',
+    name='myfol1',
+    version='0.0.4',
     packages=['myfol1']
 )
